@@ -1,5 +1,7 @@
 Edemam Search API
 
+link to website: https://recipe-search-api-react.web.app/
+
 A website which can search for the recipes of thousands of dishes using the Edemam Search API.
 
 # Getting Started with Create React App
